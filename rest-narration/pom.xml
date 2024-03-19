@@ -8,7 +8,7 @@
   <name>Quarkus Sample :: Super-Heroes :: Narration Microservice</name>
   <properties>
     <assertj.version>3.25.3</assertj.version>
-    <compiler-plugin.version>3.12.1</compiler-plugin.version>
+    <compiler-plugin.version>3.13.0</compiler-plugin.version>
     <assertj.version>3.25.3</assertj.version>
     <compiler-plugin.version>3.11.0</compiler-plugin.version>
     <maven.compiler.release>17</maven.compiler.release>
